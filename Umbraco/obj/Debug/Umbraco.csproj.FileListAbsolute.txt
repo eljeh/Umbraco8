@@ -496,3 +496,6 @@ C:\Source Files\Learning\Umbraco\Umbraco-search\Umbraco8\Umbraco\obj\Debug\Umbra
 C:\Source Files\Learning\Umbraco\Umbraco-search\Umbraco8\Umbraco\obj\Debug\Umbraco.csproj.CopyComplete
 C:\Source Files\Learning\Umbraco\Umbraco-search\Umbraco8\Umbraco\obj\Debug\Umbraco.dll
 C:\Source Files\Learning\Umbraco\Umbraco-search\Umbraco8\Umbraco\obj\Debug\Umbraco.pdb
+C:\Source Files\Learning\Umbraco\Umbraco-search\Umbraco8\Umbraco\bin\cmsCore.Library.dll
+C:\Source Files\Learning\Umbraco\Umbraco-search\Umbraco8\Umbraco\bin\cmsCore.Library.pdb
+C:\Source Files\Learning\Umbraco\Umbraco-search\Umbraco8\Umbraco\bin\cmsCore.Library.dll.config

@@ -1,8 +1,6 @@
-﻿@inherits Umbraco.Web.Mvc.UmbracoViewPage<ContentModels.ContentPage>
-@using ContentModels = Umbraco.Web.PublishedModels;
-@{
-    Layout = "master.cshtml";
-}
+﻿@inherits Umbraco.Web.Mvc.UmbracoViewPage<cmsCore.Library.Models.ContentPage>
+@using ContentModels = cmsCore.Library.Models;
+@{ Layout = "master.cshtml"; }
 
 @Html.Partial("~/Views/Partials/SectionHeader.cshtml")
 
