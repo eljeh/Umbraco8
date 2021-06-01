@@ -46,6 +46,20 @@ namespace cmsCore.Library.Models
 		// properties
 
 		///<summary>
+		/// Categories
+		///</summary>
+		[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Umbraco.ModelsBuilder", "8.1.6")]
+		[ImplementPropertyType("categories")]
+		public IEnumerable<string> Categories => this.Value<IEnumerable<string>>("categories");
+
+		///<summary>
+		/// Tags
+		///</summary>
+		[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Umbraco.ModelsBuilder", "8.1.6")]
+		[ImplementPropertyType("tags")]
+		public IEnumerable<string> Tags => this.Value<IEnumerable<string>>("tags");
+
+		///<summary>
 		/// Content
 		///</summary>
 		[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Umbraco.ModelsBuilder", "8.1.6")]

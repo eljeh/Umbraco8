@@ -381,3 +381,4 @@ C:\Source Files\Learning\Umbraco\Umbraco-search\Umbraco8\cmsCore.Library\obj\Deb
 C:\Source Files\Learning\Umbraco\Umbraco-search\Umbraco8\cmsCore.Library\obj\Debug\cmsCore.Library.csproj.CopyComplete
 C:\Source Files\Learning\Umbraco\Umbraco-search\Umbraco8\cmsCore.Library\obj\Debug\cmsCore.Library.dll
 C:\Source Files\Learning\Umbraco\Umbraco-search\Umbraco8\cmsCore.Library\obj\Debug\cmsCore.Library.pdb
+C:\Source Files\Learning\Umbraco\Umbraco-search\Umbraco8\cmsCore.Library\obj\Debug\cmsCore.Library.csprojAssemblyReference.cache
