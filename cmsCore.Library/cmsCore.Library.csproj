@@ -375,6 +375,22 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Constants.cs" />
+    <Compile Include="Models\Blog.generated.cs" />
+    <Compile Include="Models\Blogpost.generated.cs" />
+    <Compile Include="Models\Contact.generated.cs" />
+    <Compile Include="Models\ContentBase.generated.cs" />
+    <Compile Include="Models\ContentPage.generated.cs" />
+    <Compile Include="Models\Feature.generated.cs" />
+    <Compile Include="Models\File.generated.cs" />
+    <Compile Include="Models\Folder.generated.cs" />
+    <Compile Include="Models\Home.generated.cs" />
+    <Compile Include="Models\Image.generated.cs" />
+    <Compile Include="Models\Member.generated.cs" />
+    <Compile Include="Models\NavigationBase.generated.cs" />
+    <Compile Include="Models\People.generated.cs" />
+    <Compile Include="Models\Person.generated.cs" />
+    <Compile Include="Models\Product.generated.cs" />
+    <Compile Include="Models\Products.generated.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -387,7 +403,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Controllers\" />
-    <Folder Include="Models\" />
     <Folder Include="Services\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
